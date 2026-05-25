@@ -1,0 +1,11 @@
+Feature,Mean_SHAP,Feature_Clean
+Relationship Grouped_Unknown,0.25124226681953565,Relationship  — Unknown
+Relationship Grouped_Known,0.07211634669337348,Relationship  — Known
+Relationship Grouped_Intimate Partner,0.029425861515973213,Relationship  — Intimate Partner
+Relationship Grouped_Stranger,0.02229588504998039,Relationship  — Stranger
+State_California,0.013213765043259065,State California
+Decade_2000s,0.01155634709569498,Decade 2000s
+Victim Age Group_Child,0.008373180403090477,Victim Age Group Child
+Agency Grouped_Sheriff,0.00812345620842124,Agency  — Sheriff
+Weapon Grouped_Knife,0.00807224350039893,Weapon  — Knife
+State_Florida,0.007668255580217242,State Florida
