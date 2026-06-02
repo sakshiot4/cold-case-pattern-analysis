@@ -4,7 +4,7 @@
 ![Page 1](dashboard/🔴 Executive Risk Overview.png).
 
 ### Page 2 — ML & SHAP Insights  
-![Page 2](screenshots/page2_ml_shap_insights.png)
+![Page 2](dashboard/page2_ml_shap_insights.png)
 
 ### Page 3 — Geographic Intelligence
 ![Page 3](screenshots/page3_geographic_intelligence.png)
