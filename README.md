@@ -1,7 +1,7 @@
 ## 📊 Dashboard Preview
 
 ### Page 1 — Executive Risk Overview
-![Page 1](screenshots/page1_executive_overview.png)
+![Page 1](dashboard/🔴 Executive Risk Overview.png)
 
 ### Page 2 — ML & SHAP Insights  
 ![Page 2](screenshots/page2_ml_shap_insights.png)
