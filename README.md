@@ -1,16 +1,16 @@
 ## 📊 Dashboard Preview
 
 ### Page 1 — Executive Risk Overview
-![Page 1](dashboard/🔴 Executive Risk Overview.png).
+![Page 1](dashboard/page1_executive_overview.png).
 
 ### Page 2 — ML & SHAP Insights  
 ![Page 2](dashboard/page2_ml_shap_insights.png)
 
 ### Page 3 — Geographic Intelligence
-![Page 3](screenshots/page3_geographic_intelligence.png)
+![Page 3](dashboard/page3_geographic_intelligence.png)
 
 ### Page 4 — Pattern & Trend Analysis
-![Page 4](screenshots/page4_pattern_trend_analysis.png)
+![Page 4](dashboard/page4_pattern_trend_analysis.png)
 
 ## 🔑 Key Findings
 - 🔴 Nearly 1 in 3 murders goes unsolved in the US
